@@ -117,6 +117,5 @@ The following graphical representations were created using Matplotlib and Seabor
 - Age and salary have a weak positive correlation.
 
 ## 5. Conclusion
-This project provided an opportunity to explore employee data analysis using Python.Through data preprocessing and exploratory data analysis, meaningful insights were identified regarding employee distribution, positions, age groups, and salary expenditure. The visualizations helped represent the findings clearly and understand patterns within the dataset.
 
-Through data preprocessing and exploratory data analysis, meaningful insights were identified regarding employee distribution, positions, age groups, and salary expenditure. The visualizations helped represent the findings clearly and understand patterns within the dataset.
+This project provided an opportunity to explore employee data analysis using Python. Through data preprocessing and exploratory data analysis, meaningful insights were identified regarding employee distribution, positions, age groups, and salary expenditure. The visualizations helped represent the findings clearly and understand patterns within the dataset.
